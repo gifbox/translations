@@ -1,0 +1,18 @@
+{
+    "pages": {
+        "home": "Popular"
+    },
+    "error_pages": {
+        "not_found": {
+            "title": "Nothing here.",
+            "subtitle": "Use the search bar above to find GIFs and creators."
+        },
+        "gif_not_found": {
+            "title": "Couldn't find GIF.",
+            "subtitle": "It could have been deleted."
+        }
+    },
+    "try_again": "Try again later?",
+    "register": "Join",
+    "login": "Log In"
+}

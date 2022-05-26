@@ -1,0 +1,18 @@
+{
+    "pages": {
+        "home": "Beliebt"
+    },
+    "error_pages": {
+        "not_found": {
+            "title": "Nichts hier.",
+            "subtitle": "Nutze das Suchfeld oben, um Gifs und Creator zu finden."
+        },
+        "gif_not_found": {
+            "title": "Dieses GIF wurde nicht gefunden.",
+            "subtitle": "Womöglich wurde es gelöscht."
+        }
+    },
+    "try_again": "Try again later?",
+    "register": "Join",
+    "login": "Log In"
+}
