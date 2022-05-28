@@ -1,0 +1,8 @@
+{
+    "email": "E-Mail",
+    "username": "Nutzername",
+    "password": "Passwort",
+    "login_instead": "Stattdessen Anmelden",
+    "register_instead": "Stattdessen Registrieren",
+    "hello": "Hallo, {{name}}"
+}

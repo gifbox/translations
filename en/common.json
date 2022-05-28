@@ -14,5 +14,6 @@
     },
     "try_again": "Try again later?",
     "register": "Join",
-    "login": "Log In"
+    "login": "Log In",
+    "account": "Account"
 }

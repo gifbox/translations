@@ -1,0 +1,8 @@
+{
+    "email": "Email",
+    "username": "Username",
+    "password": "Password",
+    "login_instead": "Log In instead",
+    "register_instead": "Join instead",
+    "hello": "Hello, {{name}}"
+}

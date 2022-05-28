@@ -2,5 +2,9 @@
     "introduction": {
         "title": "<0>Create, discover, <1>be amazed.</1></0>",
         "about": "GIFBox is the new way to share and discover GIFs with your friends."
+    },
+    "in_progress": {
+        "hey": "Hey there!",
+        "paragraph": "<0>We're hard at work on making GIFBox the best place to find awesome GIFs, but we're not quite there yet. In the meantime, we'll be posting updates and news on <1>Revolt</1>. So keep an eye out!</0>"
     }
 }
