@@ -4,5 +4,26 @@
     "password": "Password",
     "login_instead": "Log In instead",
     "register_instead": "Join instead",
-    "hello": "Hello, {{name}}"
+    "hello": "Hello, {{name}}",
+    "log_out": {
+        "generic": "Log out",
+        "action": "Log out now",
+        "hint": "<0>This will only log you out in this browser. To manage sessions, see the <1>Sessions</1> menu.</0>"
+    },
+    "customize": {
+        "heading": "Customize your Account",
+        "set": "Update",
+        "reset": "Reset"
+    },
+    "legal": {
+        "heading": "Legal",
+        "gdpr_delete": {
+            "heading": "Right to be forgotten",
+            "manual": "<0>We currently do not have the technical setup to facilitate automatic account removal. Please contact <1>{{data_handler}}</1> to delete your account. <2>Note this will delete all your data including your GIFs!</2> This may have unintended consequences for anyone using them.</0>"
+        },
+        "gdpr_checkout": {
+            "heading": "Right to data portability",
+            "manual": "<0>We currently do not have the technical setup to facilitate automatic information retrieval. Please contact <1>{{data_handler}}</1> to retrieve your information. Note this process may take a while, as we have to manually gather all the required information.</0>"
+        }
+    }
 }

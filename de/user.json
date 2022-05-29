@@ -4,5 +4,26 @@
     "password": "Passwort",
     "login_instead": "Stattdessen Anmelden",
     "register_instead": "Stattdessen Registrieren",
-    "hello": "Hallo, {{name}}"
+    "hello": "Hallo, {{name}}",
+    "log_out": {
+        "generic": "Abmelden",
+        "action": "Jetzt abmelden",
+        "hint": "<0>Du wirst nur in diesem Browser abgemeldet. Um Sitzungen zu verwalten, wechsle zu <1>Sitzungen</1>.</0>"
+    },
+    "customize": {
+        "heading": "Account anpassen",
+        "set": "Aktualisieren",
+        "reset": "Auf Standard"
+    },
+    "legal": {
+        "heading": "Rechtliches",
+        "gdpr_delete": {
+            "heading": "Recht auf Vergessenwerden",
+            "manual": "<0>Wir verfügen momentan nicht über die technischen Vorraussetzungen, um eine automatische Auslösung des Recht auf Vergessenwerden zu ermöglichen. Kontaktiere bitte <1>{{data_handler}}</1>, falls du es in Anspruch nehmen willst. <2>Beachte bitte, dass all deine Daten löschen wird, inklusive deiner GIFs!</2> Dies könne u.U. Probleme für die verursachen, die sie nutzen.</0>"
+        },
+        "gdpr_checkout": {
+            "heading": "Recht auf Datenübertragbarkeit",
+            "manual": "<0>Wir verfügen momentan nicht über die technischen Vorraussetzungen, um eine automatische Auslösung des Recht auf Datenübertragbarkeit zu ermöglichen. Kontaktiere bitte <1>{{data_handler}}</1>, falls du es in Anspruch nehmen willst. Beachte bitte, dass das Verfahren eine Weile dauern könnte, da wir die Daten handlich zusammenstellen müssen.</0>"
+        }
+    }
 }
