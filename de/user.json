@@ -1,6 +1,8 @@
 {
     "email": "E-Mail",
     "username": "Nutzername",
+    "displayname": "Anzeigename",
+    "description": "Biografie",
     "password": "Passwort",
     "login_instead": "Stattdessen Anmelden",
     "register_instead": "Stattdessen Registrieren",
