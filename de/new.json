@@ -1,0 +1,10 @@
+{
+    "heading": "Lade ein GIF hoch",
+    "subheading": "Wähle dein allesbestes GIF für die Nachwelt aus.",
+    "title": "Titel",
+    "tags": {
+        "section": "Tags",
+        "remove_hint": "Klicke auf einen Tag, um ihn wieder zu entfernen"
+    },
+    "upload": "Hochladen"
+}

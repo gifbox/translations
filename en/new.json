@@ -1,0 +1,10 @@
+{
+    "heading": "Upload a GIF",
+    "subheading": "Choose your very best GIF for the world to see.",
+    "title": "Title",
+    "tags": {
+        "section": "Tags",
+        "remove_hint": "Click on a tag to remove it"
+    },
+    "upload": "Upload"
+}

@@ -1,6 +1,7 @@
 {
     "pages": {
-        "home": "Beliebt"
+        "home": "Beliebt",
+        "new": "Neu"
     },
     "error_pages": {
         "not_found": {
