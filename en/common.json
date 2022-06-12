@@ -16,5 +16,6 @@
     "try_again": "Try again later?",
     "register": "Join",
     "login": "Log In",
-    "account": "Account"
+    "account": "Account",
+    "select_file": "Select"
 }
