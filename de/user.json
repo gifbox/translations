@@ -17,6 +17,11 @@
         "set": "Aktualisieren",
         "reset": "Auf Standard"
     },
+    "sessions": {
+        "heading": "Sitzungen",
+        "current": "Aktuelle Sitzung",
+        "rename": "Umbenennen"
+    },
     "legal": {
         "heading": "Rechtliches",
         "gdpr_delete": {

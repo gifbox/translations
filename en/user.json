@@ -17,6 +17,11 @@
         "set": "Update",
         "reset": "Reset"
     },
+    "sessions": {
+        "heading": "Sessions",
+        "current": "Current",
+        "rename":"Rename"
+    },
     "legal": {
         "heading": "Legal",
         "gdpr_delete": {
