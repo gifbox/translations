@@ -11,11 +11,13 @@
         "gif_not_found": {
             "title": "Couldn't find GIF.",
             "subtitle": "It could have been deleted."
-        }
+        },
+        "internal": "Internal Server Error"
     },
     "try_again": "Try again later.",
     "register": "Join",
     "login": "Log In",
     "account": "Account",
-    "select_file": "Select"
+    "select_file": "Select",
+    "search": "Search by title or tag"
 }

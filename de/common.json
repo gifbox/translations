@@ -11,11 +11,13 @@
         "gif_not_found": {
             "title": "Dieses GIF wurde nicht gefunden.",
             "subtitle": "Womöglich wurde es gelöscht."
-        }
+        },
+        "internal": "Serverfehler"
     },
     "try_again": "Versuche es später nocheinmal.",
     "register": "Registrieren",
     "login": "Anmelden",
     "account": "Account",
-    "select_file": "Durchsuchen"
+    "select_file": "Durchsuchen",
+    "search": "Nach Titel oder Tag suchen"
 }

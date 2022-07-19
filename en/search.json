@@ -1,0 +1,8 @@
+{
+    "results": "Results for {{query}}",
+    "statistics_one": "{{count}} result found in {{ms}}ms",
+    "statistics_other": "Approx. {{count}} results found in {{ms}}ms",
+    "nothing": "No results.",
+    "refine_query": "Refine your query and try again.",
+    "no_query": "Please specify a search query."
+}
