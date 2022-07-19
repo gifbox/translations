@@ -1,5 +1,8 @@
 {
     "download_webp": "Download as WebP",
+    "copy_url": "Copy Link",
     "tags": "Tags",
-    "author": "Author"
+    "author": "Author",
+    "views_one": "{{count}} view",
+    "views_other": "{{count}} views"
 }
