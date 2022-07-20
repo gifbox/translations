@@ -7,6 +7,7 @@
     "login_instead": "Log In instead",
     "register_instead": "Join instead",
     "hello": "Hello, {{name}}",
+    "saved": "Saved Changes",
     "log_out": {
         "generic": "Log out",
         "action": "Log out now",
@@ -20,7 +21,14 @@
     "sessions": {
         "heading": "Sessions",
         "current": "Current",
-        "rename":"Rename"
+        "rename": "Rename"
+    },
+    "avatar": {
+        "heading": "Avatar",
+        "change": "Change...",
+        "modal_heading": "Change your avatar",
+        "formats": "Many common image formats are supported, including animated",
+        "unset": "Remove Current"
     },
     "legal": {
         "heading": "Legal",
