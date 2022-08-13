@@ -1,0 +1,10 @@
+{
+    "introduction": {
+        "title": "<0>Crée, découvre, <1>sois surpris.</1></0>",
+        "about": "GIFBox est le meilleur moyen de trouver et de partager des GIFS avec ses amis."
+    },
+    "in_progress": {
+        "hey": "Salut!",
+        "paragraph": "<0>Nous travaillons dur pour faire de GIFBox le meilleur endroit pour trouver de super GIFs, mais on en est pas encore tout à fait là. En attendant, nous publierons des mises à jours et actualités sur <1>Revolt</1>. Gardez donc un oeil ouvert!</0>"
+    }
+}

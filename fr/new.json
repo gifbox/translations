@@ -1,0 +1,10 @@
+{
+    "heading": "Envoyer un GIF",
+    "subheading": "Choisis ton meilleur GIF à montrer au mond entier.",
+    "title": "Titre",
+    "tags": {
+        "section": "Tags",
+        "remove_hint": "Click sur un Tag pour le supprimer"
+    },
+    "upload": "Envoyer"
+}
