@@ -1,0 +1,44 @@
+{
+    "email": "Email",
+    "username": "Tên người dùng",
+    "displayname": "Tên Hiển Thị",
+    "description": "Tiểu sử",
+    "password": "Mật khẩu",
+    "login_instead": "Đăng Nhập",
+    "register_instead": "Đăng Ký",
+    "hello": "Xin chào {{name}}",
+    "saved": "Đã Lưu Thay Đôir",
+    "log_out": {
+        "generic": "Đăng xuất",
+        "action": "Đăng xuất ngay",
+        "hint": "<0>Lựa chọn này chỉ đăng xuất bạn khỏi phiên hiện tại. Để quản lý phiên, hãy sử dụng menu <1>phiên</1>.</0>"
+    },
+    "customize": {
+        "heading": "Tuỳ biến Tài Khoản của bạn",
+        "set": "Cập nhật",
+        "reset": "Đặt lại"
+    },
+    "sessions": {
+        "heading": "Các phiên",
+        "current": "Hiện tại",
+        "rename": "Đổi tên"
+    },
+    "avatar": {
+        "heading": "Ảnh đại diện",
+        "change": "Thay đổi...",
+        "modal_heading": "Đổi ảnh đại diện của bạn",
+        "formats": "Hỗ trợ rất nhiều định dạng ảnh, kể cả ảnh động",
+        "unset": "Gỡ Ảnh Hiện Tại"
+    },
+    "legal": {
+        "heading": "Pháp lý",
+        "gdpr_delete": {
+            "heading": "Quyền được quên",
+            "manual": "<0>Hiện tại chúng tôi chưa có tính năng tự động xoá tài khoản. Vui lòng liên hệ <1>{{data_handler}}</1> để xoá tài khoản của bạn. <2>Lưu ý rằng hành động này sẽ xoá tất cả các ảnh GIF của bạn!</2> Hành động này có thể đẫn đến hậu quả không mong muốn cho những người sử dụng ảnh GIF của bạn.</0>"
+        },
+        "gdpr_checkout": {
+            "heading": "Quyền được lấy thông tin",
+            "manual": "<0>Hiện tại chúng tôi chưa có tính năng tự động lấy thông tin. Vui lòng liên hệ <1>{{data_handler}}</1> để lấy thông tin của bạn. Lưu ý rằng quá trình này có thể sẽ tốn một thời gian vì chúng tôi phải lấy thông tin bằng tay.</0>"
+        }
+    }
+}

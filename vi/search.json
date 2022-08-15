@@ -1,0 +1,8 @@
+{
+    "results": "Kết quả tìm kiếm cho từ khoá {{query}}",
+    "statistics_one": "{{count}} kết quả trong {{ms}}ms",
+    "statistics_other": "Khoảng {{count}} kết quả trong {{ms}}ms",
+    "nothing": "Không có kết quả phù hợp.",
+    "refine_query": "Hãy thử lại bằng từ khoá khác.",
+    "no_query": "Từ khoá tìm kiếm không thể rỗng."
+}
