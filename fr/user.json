@@ -11,7 +11,6 @@
     "log_out": {
         "generic": "Se déconnecter",
         "action": "Se déconnecter",
-        "hint": "<0>This will only log you out in this browser. To manage sessions, see the <1>Sessions</1> menu.</0>"
         "hint": "<0>Vous serez déconnecté seulement depuis ce navigateur. Pour gérer les sessions, accéder au menu <1>Sessions</1>"
     },
     "customize": {
@@ -39,7 +38,6 @@
         },
         "gdpr_checkout": {
             "heading": "Droit à l'export des données",
-            "manual": "<0>We currently do not have the technical setup to facilitate automatic information retrieval. Please contact <1>{{data_handler}}</1> to retrieve your information. Note this process may take a while, as we have to manually gather all the required information.</0>"
             "manual": "<0>Nous n'avons pas encore la possibilité d'automatiser la récupération des informations conscernant les comtpes. Merci de contacter <1>{{data_handler}}</1> pour les récupérer. Ce processus peut prendre un moment, car nous devons manuellement récupérer toutes les informations.</0>"
         }
     }
