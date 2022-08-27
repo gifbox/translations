@@ -20,5 +20,21 @@
     "account": "Account",
     "select_file": "Select",
     "search": "Search by title or tag",
-    "under_construction": "Under Construction"
+    "under_construction": "Under Construction",
+    "footer": {
+        "categories": {
+            "legal": "Legal",
+            "links": "Links"
+        },
+        "legal": {
+            "terms": "Terms of Service",
+            "privacy": "Privacy Policy",
+            "aup": "Community Guidelines"
+        },
+        "links": {
+            "github": "GitHub",
+            "contact": "Contact",
+            "revolt": "Revolt Community"
+        }
+    }
 }

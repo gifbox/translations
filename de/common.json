@@ -20,5 +20,21 @@
     "account": "Account",
     "select_file": "Durchsuchen",
     "search": "Nach Titel oder Tag suchen",
-    "under_construction": "In Arbeit"
+    "under_construction": "In Arbeit",
+    "footer": {
+        "categories": {
+            "legal": "Rechtliches",
+            "links": "Links"
+        },
+        "legal": {
+            "terms": "Nutzungsbedingungen",
+            "privacy": "Datenschutzerklärung",
+            "aup": "Community-Richtlinien"
+        },
+        "links": {
+            "github": "GitHub",
+            "contact": "Kontakt",
+            "revolt": "Revolt-Community"
+        }
+    }
 }
