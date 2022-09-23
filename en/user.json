@@ -4,8 +4,6 @@
     "displayname": "Display Name",
     "description": "Bio",
     "password": "Password",
-    "login_instead": "Log In instead",
-    "register_instead": "Join instead",
     "hello": "Hello, {{name}}",
     "saved": "Saved Changes",
     "log_out": {
@@ -40,5 +38,16 @@
             "heading": "Right to data portability",
             "manual": "<0>We currently do not have the technical setup to facilitate automatic information retrieval. Please contact <1>{{data_handler}}</1> to retrieve your information. Note this process may take a while, as we have to manually gather all the required information.</0>"
         }
+    },
+    "validation": {
+        "error": {
+            "username": "Username must be 3 to 50 characters",
+            "password": "Password must be at least 8 characters",
+            "email": "Email is required and must be valid"
+        }
+    },
+    "login_promo": {
+        "heading": "Welcome to GIFBox.",
+        "subtext": "Whether you're a seasoned user or it's your first time here, log in below to upload, share and favorite the GIFs of this world."
     }
 }

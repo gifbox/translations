@@ -4,8 +4,6 @@
     "displayname": "Anzeigename",
     "description": "Biografie",
     "password": "Passwort",
-    "login_instead": "Stattdessen Anmelden",
-    "register_instead": "Stattdessen Registrieren",
     "hello": "Hallo, {{name}}",
     "saved": "Änderungen gespeichert",
     "log_out": {
@@ -40,5 +38,16 @@
             "heading": "Recht auf Datenübertragbarkeit",
             "manual": "<0>Wir verfügen momentan nicht über die technischen Vorraussetzungen, um eine automatische Auslösung des Recht auf Datenübertragbarkeit zu ermöglichen. Kontaktiere bitte <1>{{data_handler}}</1>, falls du es in Anspruch nehmen willst. Beachte bitte, dass das Verfahren eine Weile dauern könnte, da wir die Daten handlich zusammenstellen müssen.</0>"
         }
+    },
+    "validation": {
+        "error": {
+            "username": "Nutzername darf 3 bis 50 Zeichen lang sein",
+            "password": "Passwort muss mindestens 8 Zeichen lang sein",
+            "email": "E-Mail wird benötigt und muss gültig sein"
+        }
+    },
+    "login_promo": {
+        "heading": "Willkommen bei GIFBox.",
+        "subtext": "Egal, ob du ein erfahrener Nutzer oder zum ersten Mal hier bist, melde dich einfach unten an, um die GIFs dieser Welt hochzuladen, zu teilen und zu favorisieren."
     }
 }

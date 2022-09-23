@@ -4,8 +4,6 @@
     "displayname": "Pseudonyme",
     "description": "Biographie",
     "password": "Mot de passe",
-    "login_instead": "Se connecter",
-    "register_instead": "S'enregistrer",
     "hello": "Salut, {{name}}",
     "saved": "Modifications enregistrées",
     "log_out": {

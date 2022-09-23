@@ -4,8 +4,6 @@
     "displayname": "Tên Hiển Thị",
     "description": "Tiểu sử",
     "password": "Mật khẩu",
-    "login_instead": "Đăng Nhập",
-    "register_instead": "Đăng Ký",
     "hello": "Xin chào {{name}}",
     "saved": "Đã Lưu Thay Đôir",
     "log_out": {
