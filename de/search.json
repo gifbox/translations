@@ -1,8 +1,0 @@
-{
-    "results": "Suchergebnisse für {{query}}",
-    "statistics_one": "{{count}} Ergebnis in {{ms}}ms",
-    "statistics_other": "ca. {{count}} Ergebnisse in {{ms}}ms",
-    "nothing": "Keine Ergebnisse.",
-    "refine_query": "Verfeine deine Anfrage und versuche es erneut.",
-    "no_query": "Gib bitte eine Suchanfrage an."
-}
