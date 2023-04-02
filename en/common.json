@@ -1,1 +1,21 @@
-{}
+{
+    "navbar": {
+        "search": {
+            "placeholder": "Search by tag or title"
+        }
+    },
+    "error": {
+        "404": {
+            "title": "Page not found",
+            "message": "The page you are looking for does not exist."
+        },
+        "500": {
+            "title": "Internal server error",
+            "message": "Something went wrong."
+        },
+        "ui": {
+            "retry": "Retry",
+            "dismiss": "Dismiss"
+        }
+    }
+}
