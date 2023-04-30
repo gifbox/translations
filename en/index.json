@@ -4,5 +4,10 @@
         "description": "GIFBox is the new way to share and discover GIFs with your friends.",
         "join": "Get started",
         "login": "Log in"
+    },
+    "suggestion-categories": {
+        "fresh": "Fresh",
+        "trending": "Trending",
+        "random": "Random"
     }
 }
