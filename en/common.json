@@ -1,7 +1,15 @@
 {
     "navbar": {
+        "home": "Home",
         "search": {
-            "placeholder": "Search by tag or title"
+            "placeholder": "Search by tag or title",
+            "placeholder-short": "Search"
+        },
+        "user-menu": {
+            "profile": "Profile",
+            "logout": "Log out",
+            "settings": "Settings",
+            "admin": "Admin"
         }
     },
     "error": {
