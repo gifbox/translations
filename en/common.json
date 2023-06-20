@@ -8,8 +8,13 @@
         "user-menu": {
             "profile": "Profile",
             "logout": "Log out",
-            "settings": "Settings",
-            "admin": "Admin"
+            "settings": "Settings"
+        },
+        "login-cta-popup": {
+            "title": "Time to log in.",
+            "message": "Logging in allows you to explore, upload, favourite, and more.",
+            "login": "Log in",
+            "register": "Sign up"
         }
     },
     "error": {

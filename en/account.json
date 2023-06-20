@@ -1,0 +1,16 @@
+{
+    "common": {
+        "email": "Email",
+        "password": "Password",
+        "username": "Username",
+        "displayName": "Display Name"
+    },
+    "login": {
+        "title": "Log In",
+        "message": "Log in to upload, share, discover, favourite the best GIFs on the web.",
+        "submit": "Log In",
+        "error": {
+            "fillAllFields": "Please fill in all fields."
+        }
+    }
+}
