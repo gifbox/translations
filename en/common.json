@@ -15,7 +15,8 @@
             "message": "Logging in allows you to explore, upload, favourite, and more.",
             "login": "Log in",
             "register": "Sign up"
-        }
+        },
+        "skip-to-content": "Skip to content"
     },
     "error": {
         "404": {
