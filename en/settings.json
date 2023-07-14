@@ -1,0 +1,9 @@
+{
+    "tabs": {
+        "general": "General",
+        "profile": "Profile",
+        "security": "Security",
+        "appearance": "Appearance",
+        "for-developers": "For Developers"
+    }
+}
